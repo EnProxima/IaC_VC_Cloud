@@ -1,6 +1,6 @@
 # How to
 
-![infra instance with multiple network](../img/03-multiple-network.png "infra instance with multiple network")
+
 
 ### Create stack
 
